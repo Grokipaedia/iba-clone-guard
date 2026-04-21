@@ -9,7 +9,7 @@ This tool adds real cryptographic governance using **Intent-Based Authorization 
 Wrap any cloning request with a signed IBA Intent Certificate so the clone can only be used under your exact approved rules.
 
 ## Patent & Filings
-- **Patent Pending**: GB2603013.0 (filed 5 Feb 2026, PCT route open — 150+ countries)
+- **Patent Pending**: GB2603013.0 (filed 10 Feb 2026, PCT route open — 150+ countries)
 - **NIST Docket**: NIST-2025-0035 (13 IBA filings)
 - **NCCoE Filings**: Multiple submissions on AI agent authorization
 
